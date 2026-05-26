@@ -149,11 +149,17 @@ EDA helps uncover which transaction attributes most strongly indicate fraudulent
 The project includes:
 
 - **Bar Charts** – Normal vs Fraud counts and average amount comparisons
+<img width="1365" height="559" alt="image" src="https://github.com/user-attachments/assets/75600dfa-c9b6-4b18-8aec-0b7f1b8c1aec" />
 - **Line Charts** – Fraud rate across hours of day
+<img width="1360" height="557" alt="image" src="https://github.com/user-attachments/assets/2d40961d-3ac0-4886-b5ba-862ee38e703a" />
 - **Histograms** – Amount and top PCA feature distributions by class
+<img width="1367" height="559" alt="image" src="https://github.com/user-attachments/assets/cd30fdad-dac3-43a7-b3d6-d453b02d61fb" />
 - **Scatter Plots** – Time vs Amount colored by fraud status
+<img width="1360" height="557" alt="image" src="https://github.com/user-attachments/assets/69d0e322-30f8-41bc-94b2-d70577ffda96" />
 - **Box Plots** – Transaction amount spread and outlier detection by class
+- <img width="1365" height="559" alt="image" src="https://github.com/user-attachments/assets/ab4e9a82-dd5b-407c-9fe2-e6655878f403" />
 - **Heatmaps** – Correlation matrix across key PCA features and Class
+<img width="995" height="866" alt="image" src="https://github.com/user-attachments/assets/fc0173e6-3aa5-400d-bcd7-7e8c46819d28" />
 
 Visualizations make complex, high-dimensional transaction data easy to interpret and communicate.
 
